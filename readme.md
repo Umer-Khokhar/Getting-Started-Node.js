@@ -60,9 +60,7 @@ console.log(path.parse(__filename));
 - `path.extname()`: Returns the file extension of a path.
 - `path.parse()`: Parses a path into an object with directory, base, ext, name, and root properties.
 
-## 4. Custom Module (Export math Module)
-
-## 4. Custom Module (Import math Module)
+## 3. Custom Module (Import math Module)
 
 Here, a custom module named 'math' is created to perform basic mathematical operations.
 
